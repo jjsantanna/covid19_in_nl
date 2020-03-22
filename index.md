@@ -9,7 +9,7 @@ We also created a group and a bot on Telegram to update every hour with informat
 
 ### COVID-19 cases per municipality (Gemeente)
 {% include output_file_name.html %}
-Some municipalities have value '-1' it means that our automated code have an inconsistencia. Please check bellow the complete history of cases per municipality.
+Some municipalities have value '-1' it means that our automated code has an inconsistency. Soon we will fix it. Please check bellow the complete history of cases per municipality.
 
 ### History of COVID-19 cases per municipality
 {% include table.html %}
