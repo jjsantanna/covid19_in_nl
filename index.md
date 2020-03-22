@@ -4,4 +4,5 @@
 ```html
 output_file_name.html
 ```
-
+{% include output_file_name.html %}
+{% output_file_name.html %}
