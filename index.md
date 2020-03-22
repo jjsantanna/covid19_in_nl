@@ -12,4 +12,5 @@ We also created a group and a bot on Telegram to update every hour with informat
 Some municipalities have value '-1' it means that our automated code has an inconsistency. Soon we will fix it. Please check bellow the complete history of cases per municipality.
 
 ### History of COVID-19 cases per municipality
+*Unfortunately, the automated crawler started collecting data from 20-03-2020.*
 {% include table.html %}
