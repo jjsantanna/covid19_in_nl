@@ -6,5 +6,5 @@ The goal of this Website/repository is to vizualize the information provided by 
 ### COVID-19 cases per municipality (Gemeente)
 {% include output_file_name.html %}
 
-### Complete list 
+### History of COVID-19 cases per municipality
 {% include table.html %}
