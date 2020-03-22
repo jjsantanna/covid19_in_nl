@@ -2,7 +2,7 @@ The goal of this Website is to vizualize the information provided by RIVM on COV
 
 **Important:** RIVM stated that "the actual number of infections with COVID-19 is higher than the number of reports in this update because not everyone suspected of a COVID-19 infection is tested."
 
-We also created a group and a bot on Telegram to update every hour with information. Feel free to join it: [https://t.me/joinchat/A8Zq6xTAB8lyg6iZo6_YNA](https://t.me/joinchat/A8Zq6xTAB8lyg6iZo6_YNA)
+We also created a group and a bot on Telegram to update every hour with information. Feel free to join it by clicking [HERE!](https://t.me/joinchat/A8Zq6xTAB8lyg6iZo6_YNA)
 
 ### COVID-19 patients per day in the Netherlands
 ![image](figs/overall_cummulative_stats.png)
