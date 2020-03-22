@@ -1,8 +1,4 @@
-# teste2
+The goal of this Website/repository is to vizualize the information provided by RIVM on COVID-19 cases in the Netherlands.
 
-<div w3-include-html="output_file_name.html"></div>
-```html
-output_file_name.html
-```
 {% include output_file_name.html %}
 
