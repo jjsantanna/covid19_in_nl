@@ -10,7 +10,7 @@ We also created a group and a bot on Telegram to update every hour with informat
 ![image](figs/overall_cummulative_stats.png)
 
 ### COVID-19 cases per municipality (Gemeente)
-This graph is different from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality) because it show the actual number of cases.
+This graph is different from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality) because it shows the actual number of cases.
 {% include output_file_name.html %}
 Some municipalities have value '-1' it means that our automated code has an inconsistency. Soon we will fix it. Please check bellow the complete history of cases per municipality.
 
