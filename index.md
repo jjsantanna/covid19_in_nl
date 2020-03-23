@@ -4,6 +4,8 @@ The goal of this Website is to vizualize the information provided by RIVM on COV
 
 We also created a group and a bot on Telegram to update every hour with information. Feel free to join it by clicking [HERE!](https://t.me/joinchat/A8Zq6xTAB8lyg6iZo6_YNA)
 
+*This Website is updated every day around 14:30.*
+
 ### COVID-19 patients per day in the Netherlands
 ![image](figs/overall_cummulative_stats.png)
 
