@@ -18,7 +18,3 @@ Some municipalities have value '-1' it means that our automated code has an inco
 *Unfortunately, the automated crawler started collecting data from 20-03-2020.*
 
 {% include tab_history_per_gemeente.html %}
-
-carousel:
-  - image: /figs/overall_cummulative_stats_logscale.png
-  - image: /figs/overall_cummulative_stats.png
