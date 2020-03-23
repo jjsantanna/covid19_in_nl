@@ -4,15 +4,17 @@ We also created a group and a bot on Telegram to update every hour with informat
 
 ### COVID-19 patients per day in the Netherlands
 ![image](figs/overall_cummulative_stats.png)
+The number of deaths and people admitted to hospitals have started growing later than the amount of positive tested people. When this red line starts growing more, the other lines will barely be seen, making it seem as if they are not growing. Therefore, we also show it on a logarithmic scale:
+![image](figs/overall_cummulative_stats_logscale.png)
 
 **Important:** RIVM stated that "the actual number of infections with COVID-19 is higher than the number of reports in this update because not everyone suspected of a COVID-19 infection is tested."
 
 ### COVID-19 cases per municipality (Gemeente)
-This graph is different from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality) because it shows the actual number of cases.
+This first graph is different from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality) because it shows the actual number of cases. The second one is the same as the one from the RIVM. This way, you can see both the actual numbers of infections in your region, but also put those numbers into perspective, by looking at the number of infections per 100.000 inhabitants.
 
 {% include geo_heatmap_actual_numbers.html %}
 
-Some municipalities have value '-1' it means that our automated code has an inconsistency. Soon we will fix it. Please check bellow the complete history of cases per municipality.
+{% include geo_heatmap_relative_numbers.html %}
 
 ### History of COVID-19 cases per municipality
 *Unfortunately, the automated crawler started collecting data from 20-03-2020.*
