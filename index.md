@@ -9,9 +9,12 @@ We also created a group and a bot on Telegram to update every hour with informat
 
 ### COVID-19 cases per municipality (Gemeente)
 This graph is different from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality) because it shows the actual number of cases.
-{% include output_file_name.html %}
+
+{% include geo_heatmap_actual_numbers.html %}
+
 Some municipalities have value '-1' it means that our automated code has an inconsistency. Soon we will fix it. Please check bellow the complete history of cases per municipality.
 
 ### History of COVID-19 cases per municipality
 *Unfortunately, the automated crawler started collecting data from 20-03-2020.*
-{% include table.html %}
+
+{% include tab_history_per_gemeente.html %}
