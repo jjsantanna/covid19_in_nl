@@ -20,3 +20,7 @@ This first graph is different from [https://www.rivm.nl/en/coronavirus-map-nethe
 *Unfortunately, the automated crawler started collecting data from 20-03-2020.*
 
 {% include tab_history_per_gemeente.html %}
+
+### Acknowledgements
+To RIVM that provides meaningful information. To the misterious [@Michiexb](https://github.com/Michiexb) that fixed the heatmap graph.
+
