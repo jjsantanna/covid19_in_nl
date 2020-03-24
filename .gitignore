@@ -19,4 +19,6 @@
 *.gz
 *.ptc
 *-checkpoint.ipynb
+bot_credentials.py
 *.py
+__pycache__*
