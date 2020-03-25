@@ -6,7 +6,7 @@ We also created a group and a bot on Telegram that sends an update every hour wi
 
 **Important:** The RIVM stated that "the actual number of infections with COVID-19 is higher than the number of reports in this update because not everyone suspected of a COVID-19 infection is tested (anymore)."
 
-{% include overall_cummulative_stats.html max-width="200px" %}
+{% include overall_cummulative_stats.html max-width="660px" %}
 
 The number of deaths and people admitted to hospitals have started growing later than the number of positive tested people. When this red line starts growing more, the other lines will barely be seen, making it seem as if they are not growing. Therefore, we also show these lines on a logarithmic scale:
 
