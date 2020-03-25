@@ -3,22 +3,27 @@ The goal of this Website is to vizualize the information provided by RIVM on COV
 We also created a group and a bot on Telegram that sends an update every hour with information. Feel free to join it by clicking [HERE!](https://t.me/joinchat/A8Zq6xTAB8lyg6iZo6_YNA)
 
 ### COVID-19 patients per day in the Netherlands
-<!-- ![image](figs/overall_cummulative_stats.png) -->
-{% include overall_cummulative_stats.html %}
-
-The number of deaths and people admitted to hospitals have started growing later than the number of positive tested people. When this red line starts growing more, the other lines will barely be seen, making it seem as if they are not growing. Therefore, we also show these lines on a logarithmic scale:
-<!-- ![image](figs/overall_cummulative_stats_logscale.png) -->
-
-{% include overall_cummulative_stats_logarithm.html %}
 
 **Important:** The RIVM stated that "the actual number of infections with COVID-19 is higher than the number of reports in this update because not everyone suspected of a COVID-19 infection is tested (anymore)."
 
+{% include overall_cummulative_stats.html %}
+
+The number of deaths and people admitted to hospitals have started growing later than the number of positive tested people. When this red line starts growing more, the other lines will barely be seen, making it seem as if they are not growing. Therefore, we also show these lines on a logarithmic scale:
+
+{% include overall_cummulative_stats_logarithm.html %}
+
+
 ### COVID-19 cases per municipality (Gemeente)
-This first graph is different from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality) because it shows the actual number of cases. The second graph is the same as the one from the RIVM. This way, you can see both the actual numbers of infections in your region, but also put those numbers into perspective, by looking at the number of infections per 100.000 inhabitants.
+
+##### Absolute number of cases 
 
 {% include geo_heatmap_actual_numbers.html %}
 
+##### (Relative) number of cases per 100.000 inhabitants.
+
 {% include geo_heatmap_relative_numbers.html %}
+
+This graph shows the same information as the one from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality)
 
 ### History of COVID-19 cases per municipality
 *Unfortunately, the automated crawler started collecting data from 20-03-2020 onwards.*
