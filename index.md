@@ -23,3 +23,5 @@ This first graph is different from [https://www.rivm.nl/en/coronavirus-map-nethe
 
 ### Acknowledgements
 To [RIVM](https://www.rivm.nl/) that provides meaningful information. To [Michelle Petters](https://github.com/Michiexb) who fixed the heatmap graph. To [Erik Kemp](https://www.linkedin.com/in/erikkemp/) who requested meaningful changes to the graphs and to the explanations related to the graphs.
+
+{% include overall_cummulative_stats.html %}
