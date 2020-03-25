@@ -3,9 +3,13 @@ The goal of this Website is to vizualize the information provided by RIVM on COV
 We also created a group and a bot on Telegram that sends an update every hour with information. Feel free to join it by clicking [HERE!](https://t.me/joinchat/A8Zq6xTAB8lyg6iZo6_YNA)
 
 ### COVID-19 patients per day in the Netherlands
-![image](figs/overall_cummulative_stats.png)
+<!-- ![image](figs/overall_cummulative_stats.png) -->
+{% include overall_cummulative_stats.html %}
+
 The number of deaths and people admitted to hospitals have started growing later than the number of positive tested people. When this red line starts growing more, the other lines will barely be seen, making it seem as if they are not growing. Therefore, we also show these lines on a logarithmic scale:
-![image](figs/overall_cummulative_stats_logscale.png)
+<!-- ![image](figs/overall_cummulative_stats_logscale.png) -->
+
+{% include overall_cummulative_stats_logarithm.html %}
 
 **Important:** The RIVM stated that "the actual number of infections with COVID-19 is higher than the number of reports in this update because not everyone suspected of a COVID-19 infection is tested (anymore)."
 
@@ -22,6 +26,4 @@ This first graph is different from [https://www.rivm.nl/en/coronavirus-map-nethe
 {% include tab_history_per_gemeente.html %}
 
 ### Acknowledgements
-To [RIVM](https://www.rivm.nl/) that provides meaningful information. To [Michelle Petters](https://github.com/Michiexb) who fixed the heatmap graph. To [Erik Kemp](https://www.linkedin.com/in/erikkemp/) who requested meaningful changes to the graphs and to the explanations related to the graphs. To [Wouter Kobes](https://www.linkedin.com/in/wouterkobes/) who reviewed the text. 
-
-{% include overall_cummulative_stats.html %}
+To [RIVM](https://www.rivm.nl/) that provides meaningful information. To [Michelle Petters](https://github.com/Michiexb) who fixed the heatmap graph and added great information. To [Erik Kemp](https://www.linkedin.com/in/erikkemp/) who requested meaningful changes to the graphs and to the explanations related to the graphs. To [Wouter Kobes](https://www.linkedin.com/in/wouterkobes/) who reviewed the text. 
