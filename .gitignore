@@ -19,6 +19,7 @@
 *.gz
 *.ptc
 *-checkpoint.ipynb
-bot_credentials.py
 *.py
-__pycache__*
+*telegram_bot_credentials.csv
+__pycache__/*
+.ipynb_checkpoints/*
