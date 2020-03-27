@@ -25,9 +25,10 @@ This graph shows the same information as the one from [https://www.rivm.nl/en/co
 
 <h3 align='center'>History of COVID-19 cases per municipality</h3>
 
-<h2 align='center'>DOUBLE CLICK THE GEMEENTE YOU WANT TO HIGHLIGHT!</h2>
+<h4 align='center'>DOUBLE CLICK THE GEMEENTE YOU WANT TO HIGHLIGHT!</h4>
 {% include gemeentes.html %}
 
+<br>
 {% include tab_history_per_gemeente.html %}
 
 <h3 align='center'>Other projects (that I like) on COVID19 stats</h3>
