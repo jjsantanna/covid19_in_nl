@@ -30,5 +30,8 @@ This graph shows the same information as the one from [https://www.rivm.nl/en/co
 
 {% include tab_history_per_gemeente.html %}
 
+### Other projects (that I like) related to COVID-19 worldwide
+By [Johns Hopkins University & Medicide](https://coronavirus.jhu.edu/map.html), by [Worldometers](https://www.worldometers.info/coronavirus/), by [Google](https://google.org/crisisresponse/covid19-map), by [Our world in data](https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case), [more to come, or not].
+
 ### Acknowledgements
 To [RIVM](https://www.rivm.nl/) that provides meaningful information. To [Michelle Petters](https://github.com/Michiexb) who fixed the heatmap graph. To [Erik Kemp](https://www.linkedin.com/in/erikkemp/) who requested meaningful changes to the graphs. To [Wouter Kobes](https://www.linkedin.com/in/wouterkobes/) who reviewed the text. To [Anne Marie]() and [Yuri Engelhardt](https://www.linkedin.com/in/yuriengelhardt/) who provided me additional data.
