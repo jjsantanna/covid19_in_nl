@@ -24,6 +24,10 @@ The number of deaths and people admitted to hospitals have started growing later
 This graph shows the same information as the one from [https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality](https://www.rivm.nl/en/coronavirus-map-netherlands-per-municipality)
 
 <h3 align='center'>History of COVID-19 cases per municipality</h3>
+
+<h3 align='center'>DOUBLE CLICK THE GEMEENTE YOU WANT TO HIGHLIGHT!</h3>
+{% include gemeentes.html %}
+
 {% include tab_history_per_gemeente.html %}
 
 <h3 align='center'>Other projects (that I like) on COVID19 stats</h3>
