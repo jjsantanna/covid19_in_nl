@@ -31,4 +31,4 @@ This graph shows the same information as the one from [https://www.rivm.nl/en/co
 {% include tab_history_per_gemeente.html %}
 
 ### Acknowledgements
-To [RIVM](https://www.rivm.nl/) that provides meaningful information. To [Michelle Petters](https://github.com/Michiexb) who fixed the heatmap graph and added great information. To [Erik Kemp](https://www.linkedin.com/in/erikkemp/) who requested meaningful changes to the graphs and to the explanations related to the graphs. To [Wouter Kobes](https://www.linkedin.com/in/wouterkobes/) who reviewed the text. 
+To [RIVM](https://www.rivm.nl/) that provides meaningful information. To [Michelle Petters](https://github.com/Michiexb) who fixed the heatmap graph. To [Erik Kemp](https://www.linkedin.com/in/erikkemp/) who requested meaningful changes to the graphs. To [Wouter Kobes](https://www.linkedin.com/in/wouterkobes/) who reviewed the text. To [Anne Marie]() and [Yuri Engelhardt](https://www.linkedin.com/in/yuriengelhardt/) who provided me additional data.
