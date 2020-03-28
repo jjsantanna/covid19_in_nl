@@ -45,3 +45,5 @@ d
 <link rel="import" href="_includes/tab_history_per_gemeente.html">
 e
 <iframe src="_includes/tab_history_per_gemeente.html"></iframe>
+f
+<div w3-include-html="_includes/tab_history_per_gemeente.html"></div>
