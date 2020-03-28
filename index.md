@@ -37,5 +37,9 @@ To [RIVM](https://www.rivm.nl/) that provides meaningful information. To [Michel
 
 a
 <object type="text/html" data="./_includes/tab_history_per_gemeente.html"></object>
-
+b
 <iframe src="../_includes/tab_history_per_gemeente.html"></iframe>
+c
+<link rel="import" href="./_includes/tab_history_per_gemeente.html">
+d
+<link rel="import" href="_includes/tab_history_per_gemeente.html">
