@@ -27,15 +27,7 @@ This graph shows the same information as the one from [https://www.rivm.nl/en/co
 
 <h4 align='center'>DOUBLE CLICK THE GEMEENTE YOU WANT TO HIGHLIGHT!</h4>
 {% include gemeentes.html %}
-
-<<<<<<< HEAD
-<br>
-
-{% include tab_history_per_gemeente.html %}
-=======
-<!-- <br> -->
 <!-- {% include tab_history_per_gemeente.html %} -->
->>>>>>> 14808cf12724aa747f5e1b829d2160c183c6467f
 
 <h3 align='center'>Other projects (that I like) on COVID19 stats</h3>
 By [Johns Hopkins University & Medicide](https://coronavirus.jhu.edu/map.html), by [Worldometers](https://www.worldometers.info/coronavirus/), by [Google](https://google.org/crisisresponse/covid19-map), by [Our world in data](https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case), [more to come, or not].
