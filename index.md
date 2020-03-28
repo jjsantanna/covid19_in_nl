@@ -47,3 +47,12 @@ e
 <iframe src="_includes/tab_history_per_gemeente.html"></iframe>
 f
 <div w3-include-html="_includes/tab_history_per_gemeente.html"></div>
+g
+<script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("_includes/tab_history_per_gemeente.html"); 
+    });
+    </script> 
+
+<div id="includedContent"></div>
