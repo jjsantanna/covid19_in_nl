@@ -10,6 +10,7 @@ The number of deaths and people admitted to hospitals have started growing later
 
 {% include overall_cummulative_stats_logarithm.html %}
 
+I don't have access to enough data (and knowledge) to perform a prediction of the spreading of the virus. There is a great "classical infectious disease model calculator" created by [@gabgoh](http://gabgoh.github.io/COVID/). There you can see, based on the literature, how such 'predictions' could be performed. There is also a great interactive visualization by the [New York Times](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html). Have fun!
 
 <h3 align='center'>COVID-19 cases per municipality (Gemeente)</h3>
 
@@ -28,7 +29,6 @@ This graph shows the same information as the one from [https://www.rivm.nl/en/co
 <h4 align='center'>DOUBLE-CLICK THE GEMEENTE YOU WANT TO HIGHLIGHT!</h4>
 <h5 align='center'>Then, single-click to compare with others!</h5>
 {% include gemeentes.html %}
-
 
 <h3 align='center'>Other projects (that I like) on COVID19 stats</h3>
 By [Johns Hopkins University & Medicide](https://coronavirus.jhu.edu/map.html), by [Worldometers](https://www.worldometers.info/coronavirus/), by [Google](https://google.org/crisisresponse/covid19-map), by [Our world in data](https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case), [more to come, or not].
