@@ -19,7 +19,7 @@ Thanks to [Joris Trooster](https://www.facebook.com/joris.trooster) suggestion, 
 
 Finally, I don't have access to enough data (and knowledge) to perform a prediction of the spreading of the virus. There is a great "classical infectious disease model calculator" created by [@gabgoh](http://gabgoh.github.io/COVID/). There you can see, based on the literature, how such 'predictions' could be performed. There is also a great interactive visualization by the [New York Times](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html). Have fun!
 
-<h3 align='center'>Hospitalized People with COVID-19 per municipality (Gemeente)</h3>
+<h3 align='center'>Hospitalized People with COVID-19 per municipality</h3>
 
 ##### Absolute number of hospitalized people 
 
