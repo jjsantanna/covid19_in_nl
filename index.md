@@ -1,5 +1,8 @@
 The goal of this Website is to vizualize the information provided by the National Institute for Public Health and the Environment ([RIVM](https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus)) on COVID-19 cases in the Netherlands. Although RIVM is keeping the population aware about the cases, there is no graphical visualization of it. This is my contribution to the society. **This Website is updated every day around 15:00.** We also created a group and a bot on Telegram that sends an update every hour with information. Feel free to join it by clicking [HERE!](https://t.me/joinchat/A8Zq6xTAB8lyg6iZo6_YNA)
 
+**Disclaimer:**
+[31-03-2020] RIVM stopped sharing the number of positive cases of COVID19 per municipality. Now, the data available is related to the number of hospitalized people per municipality. The source-code and the graphs in this Website were updated reflecting the changes.
+
 <h3 align='center'>COVID-19 patients per day in the Netherlands</h3>
 
 **Important:** The RIVM stated that "the actual number of infections with COVID-19 is higher than the number of reports in this update because not everyone suspected of a COVID-19 infection is tested (anymore)."
