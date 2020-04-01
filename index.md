@@ -13,7 +13,7 @@ The number of deaths and people admitted to hospitals have started growing later
 
 {% include overall_cummulative_stats_logarithm.html %}
 
-Thanks to [Joris Trooster](https://www.facebook.com/joris.trooster) suggestion, following you will find the total number of cases vs. the number of confirmed cases. The GREAT explation of this graph can be found [here](https://www.youtube.com/watch?v=54XLXg4fYsc). A comparison between countries can be found [here](https://aatishb.com/covidtrends).
+Thanks to [Joris Trooster](https://www.facebook.com/joris.trooster) suggestion, following you will find the total number of cases vs. the number of confirmed cases. The GREAT explanation of this graph can be found [here](https://www.youtube.com/watch?v=54XLXg4fYsc). A comparison between countries can be found [here](https://aatishb.com/covidtrends).
 
 {% include trajectory_of_cases.html %}
 
