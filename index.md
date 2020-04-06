@@ -31,11 +31,10 @@ Finally, I don't have access to enough data (and knowledge) to perform a predict
 
 This graph shows the same information as the one from [https://www.rivm.nl/actuele-informatie-over-coronavirus](https://www.rivm.nl/actuele-informatie-over-coronavirus)
 
-<!-- <h3 align='center'>History of COVID-19 cases per municipality</h3>
-
+<h3 align='center'>History of hospitalized patients with COVID-19</h3>
 <h4 align='center'>DOUBLE-CLICK THE GEMEENTE YOU WANT TO HIGHLIGHT!</h4>
 <h5 align='center'>Then, single-click to compare with others!</h5>
-{% include gemeentes.html %} -->
+{% include gemeentes_hospitalized.html %}
 
 <h3 align='center'>Other projects (that I like) on COVID19 stats</h3>
 By [vizualism.nl](https://www.vizualism.nl/meest-getroffen-gemeenten), By [Aatish Bhatia](https://aatishb.com/covidtrends/), By [Johns Hopkins University & Medicide](https://coronavirus.jhu.edu/map.html), by [Worldometers](https://www.worldometers.info/coronavirus/), by [Google](https://google.org/crisisresponse/covid19-map), by [Our world in data](https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case), [more to come, or not].
